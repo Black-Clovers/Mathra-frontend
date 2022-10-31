@@ -7,7 +7,7 @@ export default function App() {
   return (
     <Provider store={store}>
       <View style={styles.container}>
-        <Text>Hello test</Text>
+        <Text>Hello test project</Text>
         <StatusBar style="auto" />
       </View>
     </Provider>
